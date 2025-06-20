@@ -1,7 +1,7 @@
 # A2 Phrases
 
 ## Nuevo DELE A2
-###. conteste a las preguntas
+### conteste a las preguntas
 - [en] answer the questions
 - [examples]
 	* *I answer the questions as best as I can.* - Yo contesto a las preguntas lo mejor que puedo.
