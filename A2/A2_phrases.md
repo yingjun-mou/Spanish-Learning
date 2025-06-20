@@ -14,6 +14,7 @@
 	* *When I was a child, I always answered questions out loud.* - Cuando era niño, siempre contestaba las preguntas en voz alta.
 	* *I will answer the questions after reading the text.* - Contestaré a las preguntas después de leer el texto.
 
-1. Phrase two
-* <meaning>
-* <example>
+### phrase 2
+- [en] x
+- [examples]
+	* *X.* - X.
