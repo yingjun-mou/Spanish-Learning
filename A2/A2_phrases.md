@@ -2,7 +2,7 @@
 
 ## Nuevo DELE A2
 ### conteste a las preguntas
-- [en] answer the questions
+- [explanation] answer the questions
 - [examples]
 	* *I answer the questions as best as I can.* - Yo contesto a las preguntas lo mejor que puedo.
 	* *You answer the question very quickly.* - Tú contestas a las preguntas muy rápido.
@@ -15,12 +15,12 @@
 	* *I will answer the questions after reading the text.* - Contestaré a las preguntas después de leer el texto.
 
 ### la tercera edad
-- [en] a polite way to address the seniors (the third age). The first is childhood and the second is adulthood.
+- [explanation] a polite way to address the seniors (the third age). The first is childhood and the second is adulthood.
 - [examples]
 	* *Moderate physical activities are important in old age.* - Las actividades físicas moderadas son importantes en la tercera edad.
 
 ### disponemos de
-- [en] we have - this is a more formal way compared to "tenemos", and has a slightly different meaning about service, features, facilities.
+- [explanation] we have - this is a more formal way compared to "tenemos", and has a slightly different meaning about service, features, facilities.
 - [examples]
 	* *We (hotel) have rooms with an ocean view.* - Disponemos de habitaciones con vista al mar.
 	* *I have free time this week.* - Dispongo de tiempo libre esta semana.
@@ -29,7 +29,7 @@
 
 
 ### se puede llegar andando 15 minutos desde la estación
-- [en] It can be reached on foot in 15 mins from the station. Se is an "impersonal marker" while puede is the third-person singular form. It cannot be translated into English word-by-word, and means "One can ...". When the objectives of the verb are plural, use pueden instead.
+- [explanation] It can be reached on foot in 15 mins from the station. Se is an "impersonal marker" while puede is the third-person singular form. It cannot be translated into English word-by-word, and means "One can ...". When the objectives of the verb are plural, use pueden instead.
 - [examples]
 	* *From here, you can get to the beach in ten minutes.* - Desde aquí, se puede llegar a la playa en diez minutos.
 	* *One cannot get to the mountain during winter.* - No puede llegar a la montaña durante el invierno.
@@ -39,7 +39,7 @@
 	* *One can do various things here.* - Se pueden hacer varios cosas aquí.
 
 
-### phrase 2
-- [en] x
+### next phrase
+- [explanation] x
 - [examples]
 	* *X.* - X.
