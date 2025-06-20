@@ -1,7 +1,7 @@
 # A2 Phrases
 
 ## Book Name 1
-### phrase 1
-- [en] x
+### next phrase
+- [explanation] x
 - [examples]
 	* *X.* - X.
