@@ -39,6 +39,15 @@
 	* *One can do various things here.* - Se pueden hacer varios cosas aquí.
 
 
+### no te vas a creer
+- [explanation] You are not going to believe. Creer - believe.
+- [examples]
+	* *You won´t believe what happened to me today.* - No te vas a creer lo que me pasó hoy.
+	* *He is not going to believe what I saw.* - No se va a creer lo que he visto.
+	* *We are not going to believe what you are saying.* - No nos vamos a creer lo que dices.
+	* *I didn't believe the excuse.* - No me creí la excusa.
+
+
 ### next phrase
 - [explanation] x
 - [examples]
